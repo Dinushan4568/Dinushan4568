@@ -32,15 +32,13 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **Your Company/Project Name**
+- 🔭 I’m currently working at **Home**
 
-- 🌱 I’m currently learning **DevOps, Cloud Architecture**
-
-- 👨‍💻 All of my projects are available at [Dinushan's Workspace](http://dinushan.traditionalme.life)
+- 🌱 I’m currently learning **DevOps, Mobile apps**
 
 - 💬 Ask me about **Java, Python, PHP, and Node.js**
 
-- 📫 How to reach me **dinushan.lakshitha@gmail.com**
+- 📫 How to reach me **dinushanlakshi123@gmail.com**
 
 - ⚡ Fun fact **I think I’m funny!**
 
@@ -72,9 +70,3 @@
 
 ---
 
-### Notes:
-- Replace placeholders like **Your Company/Project Name** with accurate details.
-- Update links to personal profiles or projects if different from the default placeholders.
-- Test the final code in your GitHub profile README to confirm all dynamic elements load properly. 
-
-Let me know if you need further assistance!
